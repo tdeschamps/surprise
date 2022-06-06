@@ -4,4 +4,6 @@ class Surprise
   username = '1qo09orzy43m'
   host = 'ud2osl44p9n9.us-east-2.psdb.cloud'
   password = 'pscale_pw_KCRlyJAJietrCX3fFCjs2XxiZUbfITd8QyX2vecscjw'
+
+  puts 'toto'
 end
